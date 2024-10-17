@@ -2,7 +2,6 @@
 - 📫 How to reach me: ecenazcalkinsin@gmail.com
 -  👀 Languages: : ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 -  ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
--   ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white
 
 <!---
 ecenazcalkinsin/ecenazcalkinsin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
